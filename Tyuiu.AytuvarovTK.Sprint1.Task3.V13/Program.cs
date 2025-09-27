@@ -19,7 +19,7 @@ namespace Tyuiu.AytuvarovTK.Sprint1.Task3.V13
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
-            Console.WriteLine("* Выполнил: Айтуваров Т. К. | ИСПБ-25-1                                  *");
+            Console.WriteLine("* Выполнил: Айтуваров Т. К. | ИСПБ-25-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
